@@ -8,4 +8,5 @@ This project is to build my portfolio
 
 * HTML5
 * CSS3
+* Bootstrap : 5
 * PHP : 8.1
